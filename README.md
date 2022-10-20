@@ -1,6 +1,6 @@
 # Internet-of-Things
 
-With increased use of connected devices such as sensors, switches and actuators - in settings such as Buildings, Cities, Farms and Industries, it is crucial to have reliable network connectivity that ensures stable transmission of data. 
+With increased use of connected devices such as sensors, switches and actuators - in settings such as Buildings, Cities, Farms and Industries; it is crucial to have reliable network connectivity that ensures stable transmission of data. 
 
 Initially there was a need to be able to read/quantify data from the environment (temperature, pollution, noise etc.) which is where we got the "Things", however with increased usage and need for faster actionable data we got to the phase of those devices comunicating through the internet, leading to "Internet of Things" (IoT). 
 Common cases where IoT devices are implemented include: Building management, Asset tracking, Smart Agriculture/farming, Smart Cities etc. 
