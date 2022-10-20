@@ -9,8 +9,6 @@ As a result, a new network standard was created that is suitable for such purpos
 
 # LoRa
 
-![LoRa Diagram](https://github.com/sepse/LoRa/blob/main/Graphics/lora1.jpg)
-
 LoRa is a transmission standard between distributed devices and distributed gateways. It is ideal for low power sensors distributed everywhere, with a long operating range. There are two different approaches for the network: a commercial and a community approach. The community approach is based on privately built and operated gateways and in infrastructure which transfers the messages from the gateway to your applications.
 
 ![LoRa Diagram 2](https://github.com/sepse/LoRa/blob/main/Graphics/lora2.jpg)
@@ -26,3 +24,6 @@ Nevertheless there is a compromise as well, low power consumption and wide area 
 
 Overall, Wide area in this network standard allow for greater coverage so devices can reliably be placed everywhere and transfer data (vs Wi-Fi, Bluetooth, cellular etc.)
 
+## Network Ecosystem
+
+![LoRa Diagram](https://github.com/sepse/LoRa/blob/main/Graphics/lora1.jpg)
