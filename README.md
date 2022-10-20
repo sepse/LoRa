@@ -21,7 +21,8 @@ A single LoRaWAN gateway can support thousands of sensor devices in a range of u
 Free band - becuase the LoRa network utilized a low frequency band, you do not need to apply for a license from regulators nor pay a fee to use it.
 
 ## Con's
-Nevertheless there is a compromise as well, low power consumption and wide area of coverage allows for very limited data transfer, so network bandwidth is very limited. 
+Nevertheless there is a compromise as well, low power consumption and wide area of coverage allows for very limited data transfer, so network bandwidth is very limited.
+The range of the network is directly affected by line-of-sight, less obstructions in between gateways and sensors increase the reliability of data transfer. Careful consideration needs to be given to the placement of the gateway, especially in cities where buildings may obstruct signal. As a rule of thumb, higher placement of antenna as well as open areas are more adequate for a healthier network.
 
 ## Network Ecosystem
 
