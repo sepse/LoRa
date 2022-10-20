@@ -13,6 +13,8 @@ As a result, a new network standard was created that is suitable for such purpos
 
 LoRa is a transmission standard between distributed devices and distributed gateways. It is ideal for low power sensors distributed everywhere, with a long operating range. There are two different approaches for the network: a commercial and a community approach. The community approach is based on privately built and operated gateways and in infrastructure which transfers the messages from the gateway to your applications.
 
+![LoRa Diagram 2](https://github.com/sepse/LoRa/blob/main/Graphics/lora2.jpg)
+
 ## Pro's
 A single LoRaWAN gateway can support thousands of sensor devices in a range of up to 10km (though clear line a sight yields to better data transfer, and increased range). And as the technology is very battery efficient, devices can last up to 5 years, because they transmit very little data from sensor readings in shorter timeframes. 
 
