@@ -13,6 +13,8 @@ LoRa is a transmission standard between distributed devices and distributed gate
 
 ![LoRa Diagram 2](https://github.com/sepse/LoRa/blob/main/Graphics/lora2.jpg)
 
+Overall, Wide area in this network standard allow for greater coverage so devices can reliably be placed everywhere and transfer data (vs Wi-Fi, Bluetooth, cellular etc.)
+
 ## Pro's
 A single LoRaWAN gateway can support thousands of sensor devices in a range of up to 10km (though clear line a sight yields to better data transfer, and increased range). And as the technology is very battery efficient, devices can last up to 5 years, because they transmit very little data from sensor readings in shorter timeframes. 
 
@@ -21,9 +23,13 @@ Free band - becuase the LoRa network utilized a low frequency band, you do not n
 ## Con's
 Nevertheless there is a compromise as well, low power consumption and wide area of coverage allows for very limited data transfer, so network bandwidth is very limited. 
 
-
-Overall, Wide area in this network standard allow for greater coverage so devices can reliably be placed everywhere and transfer data (vs Wi-Fi, Bluetooth, cellular etc.)
-
 ## Network Ecosystem
 
+With the increased use of connected devices, and multiple device manufacturers, the standard was created to allow interoperability and ensure that all devices can communicate across the entire IoT ecosystem. Global collaborative Internet of Things ecosystem was created that creates networks, devices and solutions using LoRa - The Things Network (TTN), open network to build your IoT application.
+
+The Things Network consists of an inclusive and open community of people, companies, governments and universities who are learning, experimenting and building with TTN to realize LoRaWAN solutions.
+
+
 ![LoRa Diagram](https://github.com/sepse/LoRa/blob/main/Graphics/lora1.jpg)
+
+
