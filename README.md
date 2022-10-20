@@ -9,6 +9,8 @@ As a result, a new network standard was created that is suitable for such purpos
 
 # LoRa
 
+![LoRa Diagram](https://github.com/sepse/LoRa/blob/main/Graphics/Screenshot from 2022-10-19 10-01-36.png)
+
 LoRa is a transmission standard between distributed devices and distributed gateways. It is ideal for low power sensors distributed everywhere, with a long operating range. There are two different approaches for the network: a commercial and a community approach. The community approach is based on privately built and operated gateways and in infrastructure which transfers the messages from the gateway to your applications.
 
 ## Pro's
