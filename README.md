@@ -44,5 +44,6 @@ Having numerous sources of data from the sensor network leads to better resource
 
 While such networks are being implemented globaly at a large scale from both commercial service providers as well as the community versions, they serve different goals. Community version (Research institutes, NGO's, Universities) relies on the power of non-commercial stakeholders to implement solutions and gather data for phenomena they are interested in, whereas the commercial version ultimately serves a business goal and is not open to the general public.
 
+Either way, the technology seems to be maturing with a variety of sensor modules out in the market, and with increased standardization between device manufacturers; it seems feasible to ultizie such technology that can serve multiple stakeholders (Commercial, Residential, Municipal, Insitutional), and pave the way to digitalization using modern sensors for use in Buildings, Neighborhoods, Cities and Agriculture. 
 
 
