@@ -36,5 +36,13 @@ The Things Network consists of an inclusive and open community of people, compan
 ![LoRa Diagram](https://github.com/sepse/LoRa/blob/main/Graphics/lora1.jpg)
 
 
-# The Future of LoRa and IoT
+# The case for LoRa in the IoT ecosystem
+
+Considering the benefits of implementing a Wide-Area-Network using LoRa, it seems as a very viable solution for creating solutions where a multitude of devices can communicate to the internet without the hassle of finding or purchasing dedicated network service. Bearing in mind that with just a single gateway one can service thousands of devices, an ideal use case would be in a municipal environment where environmental sensors could generate data for phenomena such as pollution, traffic, streetlight control and other municipal resource management. 
+
+Having numerous sources of data from the sensor network leads to better resource management, and raises awareness about different phenomena (pollution, traffic, security) that can potentially lead to better accountability from local stakeholders.
+
+While such networks are being implemented globaly at a large scale from both commercial service providers as well as the community versions, they serve different goals. Community version (Research institutes, NGO's, Universities) relies on the power of non-commercial stakeholders to implement solutions and gather data for phenomena they are interested in, whereas the commercial version ultimately serves a business goal and is not open to the general public.
+
+
 
