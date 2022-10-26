@@ -1,4 +1,4 @@
-# Building a healthy Internet-of-Things network
+# Intro to Internet-of-Things networks
 
 With increased use of connected devices such as sensors, switches and actuators - in settings such as Buildings, Cities, Farms and Industries; it is crucial to have reliable network connectivity that ensures stable transmission of data. 
 
